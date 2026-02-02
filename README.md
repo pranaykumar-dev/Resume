@@ -3,8 +3,8 @@
 Personal resume website
 It content my skills, experience, projects, and education.
 
-🔗 **Live Demo**: https://resume-tc8u.vercel.app/ 
-##image 
+🔗 **Live Demo**: https://resume-tc8u.vercel.app/ <br />
+## image 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9d7f5126-2870-4b52-81b4-6ffb4ee15bec" />
 
 
